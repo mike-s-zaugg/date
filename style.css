@@ -151,6 +151,12 @@ iframe{
   font-size: 20px;
   color: #333;
 }
+.yesyes-button{
+background-color: green;
+  color: white;
+  width: 50px;
+  height: 20px;
+}
 .yes-button{
   background-color: red;
   color: white;
